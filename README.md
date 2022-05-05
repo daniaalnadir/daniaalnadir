@@ -11,4 +11,4 @@ I code mainly in C# and .NET and have done quite a bit in python as well. I love
 
 
 ## Languages 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniaalnadir&layout=compact)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniaalnadir&layout=compact&hide=css,html,handlebars)]
