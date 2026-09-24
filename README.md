@@ -7,8 +7,8 @@
 I code mainly in C# and .NET and have done quite a bit in python as well. I love learning all things tech!!
 
 ## Stats
-[![daniaalnadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniaalnadir&show_icons=true&theme=dracula&count_private=true)]
+[![daniaalnadir's GitHub stats](https://github-stats-extended.vercel.app/api?username=daniaalnadir&show_icons=true&theme=dracula&count_private=true)]
 
 
 ## Languages 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniaalnadir&layout=compact&hide=css,html,handlebars)]
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=daniaalnadir&layout=compact&hide=css,html,handlebars)]
